@@ -1,6 +1,6 @@
 {
   "hostname": "http://localhost:9006",
-  "basename": "",
+  "basename": "https://test2capstone.herokuapp.com/",
   "staticPath": "",
   "uploadPath": "upload",
   "staticFolderPath": "src/static",
